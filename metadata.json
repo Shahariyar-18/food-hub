@@ -1,0 +1,6 @@
+{
+  "name": "FOOD HUB",
+  "description": "Professional food delivery application with multi-layer custom menu filtering, interactive cart customization, Indian Rupee (₹) pricing, and real-time delivery order tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
